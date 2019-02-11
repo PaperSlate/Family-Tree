@@ -1,0 +1,100 @@
+{
+ "name": "Andrew Cudworth",
+ "children": [
+  {
+   "name": "Chelsey Boatman",
+   "children": [
+    {
+     "name": "Pulkit Agarwal",
+     "children": [
+      {
+        "name": "Alizeh Rehman",
+        "children": [
+          {
+            "name": "Dinesh Ganesan",
+            "children": [
+            {
+              "name": "Sahas Mehta",
+              "children": [
+              {"name": "Rohan Kansara", "value": 3892}
+              ]
+            }
+            ]
+          }
+          ]
+      }
+      ]
+  },
+  {
+   "name": "Bridget Larson", "value": 17010
+  },
+  {
+   "name": "Michael Noah",
+   "children": [
+    {
+     "name": "Anjani Agrawal",
+     "children": [
+      {
+        "name": "Sarah Liu",
+        "children": [
+        {
+          "name": "Sayali Punyarthi",
+          "children": [
+            {"name": "Radhika Srivastava", "value": 4294}
+            ]
+        }
+        ]
+      }
+      ] 
+    },
+      {"name": "Alek Wobeck",
+      "children": [
+        {"name": "Camilo Jaimes", "value": 1759}
+        ]
+      }
+      ]
+    },
+    {
+      "name": "William Higgins", 
+      "children": [
+        {
+          "name": "Lois Johnson",
+          "children": [
+            {
+              "name": "Reena Thaker",
+              "children": [
+                {
+                  "name": "Navin Buxani",
+                  "children": [
+                    {
+                      "name": "Ayesha Ahuja", "value": 2165
+                    }]
+                },
+                {
+                  "name": "Raina Parikh", "value": 3322
+                }]
+            }]
+        },
+        {
+          "name": "Vanessa Dimnwaobi",
+          "children": [
+            {
+              "name": "Sean Kim", "value": 586
+            }]
+        },
+        {
+          "name": "Charlotte Goguillon",
+          "children": [
+            {
+              "name": "Tanya Sharma",
+              "children": [
+                {
+                  "name": "Mai Nguyen", "value": 3331
+                }]
+            }]
+        }
+      ]}
+    ]     
+  }
+ ]
+}
