@@ -1,0 +1,626 @@
+{
+    "name": "GT AKPsi",
+    "children": [
+        {
+         "name": "Jane Lahette",
+         "children": [
+          {
+           "name": "Anna Liebers",
+           "children": [
+            {
+                "name": "Katie Rhode",
+                "children": [
+                {
+                    "name": "Kimberly Hembree",
+                    "value": 1
+                }
+                ]
+            },
+            {
+                "name": "Andrew Hamilton",
+                "children": [
+                {
+                    "name": "Tim Miller",
+                    "value": 2
+                },
+                {
+                    "name": "Kristi Jackson",
+                    "value": 3
+                },
+                {
+                    "name": "Julie Chlopan",
+                    "value": 4
+                },
+                {
+                    "name": "Sidrah Zaidi",
+                    "children": [
+                    {
+                        "name": "Jennifer Lin",
+                        "children": [
+                        {
+                            "name": "Nikita Basandra",
+                            "children": [
+                            {
+                                "name": "Ankita Neotia",
+                                "children": [
+                                {
+                                    "name": "Kushagra Agarwal",
+                                    "value": 5
+                                }
+                                ]
+                            }
+                            ]
+                        },
+                        {
+                            "name": "Philip Kim",
+                            "value": 6
+                        },
+                        {
+                            "name": "Liang Du",
+                            "children": [
+                            {
+                                "name": "Jane Park",
+                                "children": [
+                                {
+                                    "name": "Annie Choo",
+                                    "children": [
+                                    {
+                                        "name": "David Chen",
+                                        "value": 7
+                                    },
+                                    {
+                                        "name": "Satian Worasilpchai",
+                                        "value": 8
+                                    },
+                                    {
+                                        "name": "Ezra Gallagher",
+                                        "value": 9
+                                    }
+                                    ]
+                                }
+                                ]
+                            }
+                            ]
+                        }
+                        ]
+                    },
+                    {
+                        "name": "Annie Chen",
+                        "children": [
+                        {
+                            "name": "Linh Son",
+                            "children": [
+                            {
+                                "name": "Brandon Nelson",
+                                "children": [
+                                {
+                                    "name": "Shawn Fox",
+                                    "children": [
+                                    {
+                                        "name": "John Yoon",
+                                        "value": 10
+                                    },
+                                    {
+                                        "name": "Varun Sipani",
+                                        "children": [
+                                        {
+                                            "name": "Tobin Thomas",
+                                            "value": 11
+                                        }
+                                        ]
+                                    }
+                                    ]
+                                }
+                                ]
+                            }
+                            ]
+                        }
+                        ]
+                    }
+                    ]
+                }
+                ]
+            },
+            {
+                "name": "Erin O'Leary",
+                "children": [
+                {
+                    "name": "Allison Flexer",
+                    "children": [
+                    {
+                        "name": "Dani DeAngelo",
+                        "children": [
+                        {
+                            "name": "Charley Dellinger",
+                            "children": [
+                            {
+                                "name": "Chris Basiliere",
+                                "children": [
+                                {
+                                    "name": "Javier Orraca",
+                                    "children": [
+                                    {
+                                        "name": "Ross Hinson",
+                                        "children": [
+                                        {
+                                            "name": "Huan Du",
+                                            "children": [
+                                            {
+                                                "name": "Alex Glass",
+                                                "value": 12
+                                            }
+                                            ]
+                                        }
+                                        ]
+                                    }
+                                    ]
+                                }
+                                ]
+                            }
+                            ]
+                        }
+                        ]
+                    }
+                    ]
+                },
+                {
+                    "name": "Kristen Noble",
+                    "children": [
+                    {
+                        "name": "Ashley Cameron",
+                        "children": [
+                        {
+                            "name": "Mehreen Kassam",
+                            "children": [
+                            {
+                                "name": "Natalie Kachadurian",
+                                "children": [
+                                {
+                                    "name": "Kylee Kuzminsky",
+                                    "children": [
+                                    {
+                                        "name": "Christina Ruiz",
+                                        "children": [
+                                        {
+                                            "name": "Chris Chang",
+                                            "children": [
+                                            {
+                                                "name": "Sydney Mobley",
+                                                "children": [
+                                                {
+
+                                                }
+                                                ]
+                                            }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Maya Uddin",
+                                            "children": [
+                                            {
+                                                "name": "I-Wah Chang",
+                                                "children": [
+                                                {
+                                                    // Add Children Later
+                                                }
+                                                ]
+                                            }
+                                            ]
+                                        }
+                                        ]
+                                    }
+                                    ]
+                                },
+                                {
+                                    "name": "David Vigil",
+                                    "children": [
+                                    {
+                                        "name": "Uy Nguyen",
+                                        "value": 13
+                                    },
+                                    {
+                                        "name": "Justin Yen",
+                                        "children": [
+                                        {
+                                            "name": "Sangeet Vellore",
+                                            "children": [
+                                            {
+                                                "name": "Daniel Liu",
+                                                "value": 14
+                                            },
+                                            {
+                                                "name": "Peter Bau",
+                                                "value": 15
+                                            }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Felix Ouyang",
+                                            "children": [
+                                            {
+                                                "name": "Zach Bruhn",
+                                                "value": 16
+                                            },
+                                            {
+                                                "name": "Jonathan Chenoweth",
+                                                "value": 17
+                                            }
+                                            ]
+                                        }
+                                        ]
+                                    }
+                                    ]
+                                },
+                                {
+                                    "name": "Neha Gilja",
+                                    "children": [
+                                    {
+                                        "name": "Stefan Koshy",
+                                        "children": [
+                                        {
+                                            "name": "Elizabeth Barsalou",
+                                            "value": 18
+                                        }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Eric Oh",
+                                        "children": [
+                                        {
+                                            "name": "Alex Lee",
+                                            "children": [
+                                            {
+                                                "name": "Jun Mo Yang",
+                                                "value": 19
+                                            }
+                                            ]
+                                        }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Erica Gabriel",
+                                        "value": 20
+                                    },
+                                    {
+                                        "name": "Poonam Mahtani",
+                                        "value": 21
+                                    }
+                                    ]
+                                }
+                                ]
+                            },
+                            {
+                                "name": "Rishabh Singhania",
+                                "children": [
+                                {
+                                    "name": "Andrew Park",
+                                    "children": [
+                                    {
+                                        "name": "Hang Gao",
+                                        "children": [
+                                        {
+                                            "name": "Joey Affatato",
+                                            "children": [
+                                            {
+                                                "name": "Sophia Uddin",
+                                                "children": [
+                                                {
+                                                    "name": "Diana Pak",
+                                                    "children": [
+                                                    {
+                                                        "name": "Richard Park",
+                                                        "value": 22
+                                                    }
+                                                    ]
+                                                }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Jiwon Han",
+                                                "children": [
+                                                {
+                                                    "name": "Pranav Bahl",
+                                                    "children": [
+                                                    {
+                                                        "name": "Andrew Cudworth",
+                                                        "children": [
+                                                         {
+                                                          "name": "Chelsey Boatman",
+                                                          "children": [
+                                                            {
+                                                                "name": "Chelsey Boatman",
+                                                                "children": [
+                                                                    {
+                                                                        "name": "Pulkit Agarwal",
+                                                                        "children": [
+                                                                            {
+                                                                                "name": "Alizeh Rehman",
+                                                                                "children": [
+                                                                                    {
+                                                                                        "name": "Dinesh Ganesan",
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "name": "Sahas Mehta",
+                                                                                                "children": [
+                                                                                                    {
+                                                                                                        "name": "Rohan Kansara",
+                                                                                                        "children": 41
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "name": "Bridget Larson",
+                                                                        "value": 40
+                                                                    },
+                                                                    {
+                                                                        "name": "Michael Noah",
+                                                                        "children": [
+                                                                            {
+                                                                                "name": "Anjani Agrawal",
+                                                                                "children": [
+                                                                                    {
+                                                                                        "name": "Sarah Liu",
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "name": "Sayali Punyarthi",
+                                                                                                "children": [
+                                                                                                    {
+                                                                                                        "name": "Radhika Srivastava",
+                                                                                                        "children": [
+                                                                                                            {
+                                                                                                                "name": "Heejoo Jin",
+                                                                                                                "value": 42
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "name": "William Higgins",
+                                                                        "children": [
+                                                                            {
+
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                            ]
+                                                        }
+                                                        ]
+                                                    }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "Cane Punma",
+                                                    "children": [
+                                                    {
+                                                        // Add Children Later
+                                                    }
+                                                    ]
+                                                }
+                                                ]
+                                            }
+                                            ]
+                                        }
+                                        ]
+                                    }
+                                    ]
+                                }
+                                ]
+                            }
+                            ]
+                        },
+                        {
+                            "name": "Leslie Smith",
+                            "children": [
+                                {
+                                    "name": "Arthur Mallard",
+                                    "children": [
+                                        {
+                                            "name": "Reid Samuel",
+                                            "children": [
+                                                {
+                                                    "name": "Lena Lemesheva",
+                                                    "children": [
+                                                        {
+                                                            "name": "Abel Tadesse",
+                                                            "children": [
+                                                                {
+                                                                    "name": "Hannah Gebresilassie",
+                                                                    "value": 23
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "Connor Piggot",
+                                                            "value": 24
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Wesleigh Wangel",
+                                            "children": [
+                                                {
+                                                    "name": "Christopher Bryan",
+                                                    "children": [
+                                                        {
+                                                            "name": "Yuvraj Singj",
+                                                            "value": 25
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Aditya Singhal",
+                                            "children": [
+                                                {
+                                                    "name": "Jin Kwak",
+                                                    "value": 26
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                        ]
+                    }
+                    ]
+                }
+                ]
+            }
+            ]
+        }
+        ]
+    },
+    {
+        "name": "Sunny Shah",
+        "children": [
+        {
+            "name": "James Chi",
+            "children": [
+            {
+                "name": "Kathy Xu",
+                "children": [
+                {
+                    "name": "Tonya Dugger",
+                    "children": [
+                    {
+                        "name": "Vidhi Shah",
+                        "children": [
+                        {
+                            "name": "Michael Kang",
+                            "value": 27
+                        }
+                        ]
+                    }
+                    ]
+                }
+                ]
+            }
+            ]
+        },
+        {
+            "name": "Tiffany Chang",
+            "children": [
+            {
+
+            }
+            ]
+        }
+        ]
+    },
+    {
+        "name": "Abhi Shuknarula",
+        "children": [
+        {
+            "name": "Jonathan McColgan",
+            "children": [
+            {
+                "name": "Krishna Tamburino",
+                "value": 28
+            },
+            {
+                "name": "Daryl Duran",
+                "children": [
+                {
+                    "name": "Jamie Lee",
+                    "value": 29
+                }
+                ]
+            },
+            {
+                "name": "Alex Thet Paing Kyaw",
+                "value": 30
+            }
+            ]
+        }
+        ]
+    },
+    {
+        "name": "Katie Sanmarco",
+        "children": [
+        {
+            "name": "Herschel Parikh",
+            "children": [
+            {
+                "name": "Jason Zhang",
+                "children": [
+                {
+                    "name": "Jerry Yang",
+                    "children": [
+                    {
+                        "name": "Sipiwe Msimanga",
+                        "children": [
+                        {
+                            "name": "Chinenye Ananaba",
+                            "value": 31
+                        }
+                        ]
+                    }
+                    ]
+                }
+                ]
+            }
+            ]
+        }
+        ]
+    },
+    {
+        "name": "Carrie Hsu",
+        "children": [
+        {
+            "name": "Matt Ho",
+            "value": 32
+        },
+        {
+            "name": "Nancy Thanki",
+            "value": 33
+        }
+        ]
+    },
+    {
+        "name": "Abhinav Sawhney",
+        "children": [
+        {
+            "name": "Rahul Sheth",
+            "children": [
+            {
+                "name": "Slayton Gilmore",
+                "value": 34
+            }
+            ]
+        },
+        {
+            "name": "Vir Handa",
+            "value": 35
+        }
+        ]
+    },
+    {
+        "name": "Vanessa Yip",
+        "children": [
+        {
+            "name": "Rita Fayner",
+            "value": 36
+        }
+        ]
+    }
+    ]
+}
