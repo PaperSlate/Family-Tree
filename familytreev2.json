@@ -5,7 +5,7 @@
     "profileUrl": "http://example.com/employee/profile",
     "office": "CEO office",
     "tags": "CEO",
-    "isLoggedUser": false,
+    "isLoggedUser": true,
     "unit": {
         "type": "business",
         "value": "Business first"
