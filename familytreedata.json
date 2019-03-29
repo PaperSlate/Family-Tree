@@ -99,7 +99,7 @@
                             "positionName": "Alumnus"
                         },
                         {
-                            "name": "Kristi Jacksons",
+                            "name": "Kristi Jackson",
                             "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                             "area": "Corporate",
                             "profileUrl": "http://example.com/employee/profile",
@@ -156,7 +156,7 @@
                                 "children": [
                                 {
                                     "name": "Nikita Basandra",
-                                    "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                    "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/NikitaBasandra.jpg",
                                     "area": "Corporate",
                                     "profileUrl": "http://example.com/employee/profile",
                                     "office": "CEO office",
@@ -170,7 +170,7 @@
                                     "children": [
                                     {
                                         "name": "Ankita Neotia",
-                                        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                        "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/AnkitaNeotia.jpg",
                                         "area": "Corporate",
                                         "profileUrl": "http://example.com/employee/profile",
                                         "office": "CEO office",
@@ -201,7 +201,7 @@
                                     ]
                                 },
                                 {
-                                    "name": "Katie Rhode",
+                                    "name": "Philip Kim",
                                     "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                                     "area": "Corporate",
                                     "profileUrl": "http://example.com/employee/profile",
@@ -216,7 +216,7 @@
                                 },
                                 {
                                     "name": "Liang Du",
-                                    "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                    "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/LiangDu.jpg",
                                     "area": "Corporate",
                                     "profileUrl": "http://example.com/employee/profile",
                                     "office": "CEO office",
@@ -230,7 +230,7 @@
                                     "children": [
                                     {
                                         "name": "Jane Park",
-                                        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                        "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/JanePark.jpg",
                                         "area": "Corporate",
                                         "profileUrl": "http://example.com/employee/profile",
                                         "office": "CEO office",
@@ -458,7 +458,7 @@
                                             },
                                             {
                                                 "name": "Ezra Gallagher",
-                                                "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                                "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/EzraGallagher.jpg",
                                                 "area": "Corporate",
                                                 "profileUrl": "http://example.com/employee/profile",
                                                 "office": "CEO office",
@@ -493,7 +493,7 @@
                                 "positionName": "Alumnus",
                                 "children": [
                                 {
-                                    "name": "Linh SSon",
+                                    "name": "Linh Son",
                                     "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                                     "area": "Corporate",
                                     "profileUrl": "http://example.com/employee/profile",
@@ -550,7 +550,7 @@
                                             },
                                             {
                                                 "name": "Varun Sipani",
-                                                "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                                "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/VarunSipani.jpg",
                                                 "area": "Corporate",
                                                 "profileUrl": "http://example.com/employee/profile",
                                                 "office": "CEO office",
@@ -758,7 +758,7 @@
                                     "children": [
                                     {
                                         "name": "Natalie Kachadurian",
-                                        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                        "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/NatalieKachadurian.jpg",
                                         "area": "Corporate",
                                         "profileUrl": "http://example.com/employee/profile",
                                         "office": "CEO office",
@@ -870,7 +870,7 @@
                                                                     "children": [
                                                                     {
                                                                         "name": "Payal Malhotra",
-                                                                        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                                                        "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/PayalMalhotra.jpg",
                                                                         "area": "Corporate",
                                                                         "profileUrl": "http://example.com/employee/profile",
                                                                         "office": "CEO office",
@@ -940,7 +940,7 @@
                                                 },
                                                 {
                                                     "name": "Maya Uddin",
-                                                    "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                                    "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/MayaUddin.jpg",
                                                     "area": "Corporate",
                                                     "profileUrl": "http://example.com/employee/profile",
                                                     "office": "CEO office",
@@ -1176,7 +1176,7 @@
                                                                             "children": [
                                                                             {
                                                                                 "name": "Manoaj Kandiakounder",
-                                                                                "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/ManoajKadiakounder.jpg",
+                                                                                "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/ManoajKandiakounder.jpg",
                                                                                 "area": "Corporate",
                                                                                 "profileUrl": "http://example.com/employee/profile",
                                                                                 "office": "CEO office",
@@ -1219,6 +1219,52 @@
                                                                                 "positionName": "Pledge"
                                                                             }
                                                                             ]
+                                                                        }
+                                                                        ]
+                                                                    }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Anupama Sekar",
+                                                                    "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/AnupamaSekar.jpg",
+                                                                    "area": "Corporate",
+                                                                    "profileUrl": "http://example.com/employee/profile",
+                                                                    "office": "CEO office",
+                                                                    "tags": "CEO",
+                                                                    "isLoggedUser": false,
+                                                                    "unit": {
+                                                                        "type": "business",
+                                                                        "value": "Business first"
+                                                                    },
+                                                                    "positionName": "Alumnus",
+                                                                    "children": [
+                                                                    {
+                                                                        "name": "Vikram Krishnamurthy",
+                                                                        "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/VikramKrishnamurty.jpg",
+                                                                        "area": "Corporate",
+                                                                        "profileUrl": "http://example.com/employee/profile",
+                                                                        "office": "CEO office",
+                                                                        "tags": "CEO",
+                                                                        "isLoggedUser": false,
+                                                                        "unit": {
+                                                                            "type": "business",
+                                                                            "value": "Business first"
+                                                                        },
+                                                                        "positionName": "Alumnus",
+                                                                        "children": [
+                                                                        {
+                                                                            "name": "Vishwa Shah",
+                                                                            "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/VishwaShah.jpg",
+                                                                            "area": "Corporate",
+                                                                            "profileUrl": "http://example.com/employee/profile",
+                                                                            "office": "CEO office",
+                                                                            "tags": "CEO",
+                                                                            "isLoggedUser": false,
+                                                                            "unit": {
+                                                                                "type": "business",
+                                                                                "value": "Business first"
+                                                                            },
+                                                                            "positionName": "Brother"
                                                                         }
                                                                         ]
                                                                     }
@@ -1366,7 +1412,7 @@
                                                                 },
                                                                 {
                                                                     "name": "Suvitha Radhakrishnan",
-                                                                    "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/SuvivthaRadhakrishnan.jpg",
+                                                                    "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/SuvithaRadhakrishnan.jpg",
                                                                     "area": "Corporate",
                                                                     "profileUrl": "http://example.com/employee/profile",
                                                                     "office": "CEO office",
@@ -1610,7 +1656,7 @@
                                                                     "children": [
                                                                     {
                                                                         "name": "Mihir Dhoot",
-                                                                        "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/MihitDhoot.jpg",
+                                                                        "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/MihirDhoot.jpg",
                                                                         "area": "Corporate",
                                                                         "profileUrl": "http://example.com/employee/profile",
                                                                         "office": "CEO office",
@@ -1698,7 +1744,7 @@
                                             },
                                             {
                                                 "name": "Liz Eckman",
-                                                "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                                "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/LizEckman.jpg",
                                                 "area": "Corporate",
                                                 "profileUrl": "http://example.com/employee/profile",
                                                 "office": "CEO office",
@@ -1742,7 +1788,7 @@
                                             "children": [
                                             {
                                                 "name": "Uy Nguyen",
-                                                "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                                "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/UyNguyen.jpg",
                                                 "area": "Corporate",
                                                 "profileUrl": "http://example.com/employee/profile",
                                                 "office": "CEO office",
@@ -1798,7 +1844,7 @@
                                                     },
                                                     {
                                                         "name": "Peter Bau",
-                                                        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                                        "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/PeterBau.jpg",
                                                         "area": "Corporate",
                                                         "profileUrl": "http://example.com/employee/profile",
                                                         "office": "CEO office",
@@ -2060,7 +2106,7 @@
                                                 },
                                                 {
                                                     "name": "Shaudie Fassih",
-                                                    "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                                    "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/ShaudieFassih.jpg",
                                                     "area": "Corporate",
                                                     "profileUrl": "http://example.com/employee/profile",
                                                     "office": "CEO office",
@@ -2228,7 +2274,7 @@
                                                     "children": [
                                                     {
                                                         "name": "Joey Affatato",
-                                                        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                                        "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/JoeyAffatato.jpg",
                                                         "area": "Corporate",
                                                         "profileUrl": "http://example.com/employee/profile",
                                                         "office": "CEO office",
@@ -2288,7 +2334,7 @@
                                                         },
                                                         {
                                                             "name": "Jiwon Han",
-                                                            "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                                            "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/JiwonHan.jpg",
                                                             "area": "Corporate",
                                                             "profileUrl": "http://example.com/employee/profile",
                                                             "office": "CEO office",
@@ -2302,7 +2348,7 @@
                                                             "children": [
                                                             {
                                                                 "name": "Pranav Bahl",
-                                                                "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                                                "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/PranavBahl.jpg",
                                                                 "area": "Corporate",
                                                                 "profileUrl": "http://example.com/employee/profile",
                                                                 "office": "CEO office",
@@ -2896,7 +2942,7 @@
                                             "children": [
                                             {
                                                 "name": "Lena Lemesheva",
-                                                "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                                "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/LenaLemesheva.jpg",
                                                 "area": "Corporate",
                                                 "profileUrl": "http://example.com/employee/profile",
                                                 "office": "CEO office",
@@ -2967,7 +3013,7 @@
                                                         "positionName": "Alumnus",
                                                         "children": [
                                                         {
-                                                            "name": "Jonathan Nathans",
+                                                            "name": "Jonathan Nathan",
                                                             "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/JonathanNathan.jpg",
                                                             "area": "Corporate",
                                                             "profileUrl": "http://example.com/employee/profile",
@@ -3052,7 +3098,7 @@
                                             "children": [
                                             {
                                                 "name": "Christopher Bryan",
-                                                "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                                "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/ChristopherBryan.jpg",
                                                 "area": "Corporate",
                                                 "profileUrl": "http://example.com/employee/profile",
                                                 "office": "CEO office",
@@ -3065,7 +3111,7 @@
                                                 "positionName": "Alumnus",
                                                 "children": [
                                                 {
-                                                    "name": "Yuvraj Singj",
+                                                    "name": "Yuvraj Singh",
                                                     "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                                                     "area": "Corporate",
                                                     "profileUrl": "http://example.com/employee/profile",
@@ -3084,7 +3130,7 @@
                                         },
                                         {
                                             "name": "Aditya Singhal",
-                                            "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                            "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/AdityaSinghal.jpg",
                                             "area": "Corporate",
                                             "profileUrl": "http://example.com/employee/profile",
                                             "office": "CEO office",
@@ -3142,7 +3188,7 @@
             "children": [
             {
                 "name": "James Chi",
-                "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/JamesChi.jpg",
                 "area": "Corporate",
                 "profileUrl": "http://example.com/employee/profile",
                 "office": "CEO office",
@@ -3156,7 +3202,7 @@
                 "children": [
                 {
                     "name": "Kathy Xu",
-                    "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                    "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/KathyXu.jpg",
                     "area": "Corporate",
                     "profileUrl": "http://example.com/employee/profile",
                     "office": "CEO office",
@@ -3170,7 +3216,7 @@
                     "children": [
                     {
                         "name": "Tonya Dugger",
-                        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                        "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/TonyaDugger.jpg",
                         "area": "Corporate",
                         "profileUrl": "http://example.com/employee/profile",
                         "office": "CEO office",
@@ -3346,7 +3392,7 @@
                                             "children": [
                                             {
                                                 "name": "Abel Tesfaye",
-                                                "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                                "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/AbelTesfaye.jpg",
                                                 "area": "Corporate",
                                                 "profileUrl": "http://example.com/employee/profile",
                                                 "office": "CEO office",
@@ -3406,7 +3452,7 @@
             },
             {
                 "name": "Tiffany Chang",
-                "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/TiffanyChang.jpg",
                 "area": "Corporate",
                 "profileUrl": "http://example.com/employee/profile",
                 "office": "CEO office",
@@ -3436,7 +3482,7 @@
             "children": [
             {
                 "name": "Jonathan McColgan",
-                "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/JonathanMcColgan.jpg",
                 "area": "Corporate",
                 "profileUrl": "http://example.com/employee/profile",
                 "office": "CEO office",
@@ -3474,27 +3520,11 @@
                         "type": "business",
                         "value": "Business first"
                     },
-                    "positionName": "Alumnus",
-                    "children": [
-                    {
-                        "name": "Jamie Lee",
-                        "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/JamieLee.jpg",
-                        "area": "Corporate",
-                        "profileUrl": "http://example.com/employee/profile",
-                        "office": "CEO office",
-                        "tags": "CEO",
-                        "isLoggedUser": false,
-                        "unit": {
-                            "type": "business",
-                            "value": "Business first"
-                        },
-                        "positionName": "Alumnus"
-                    }
-                    ]
+                    "positionName": "Alumnus"
                 },
                 {
                     "name": "Alex Thet Paing Kyaw",
-                    "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                    "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/AlexKyaw.jpg",
                     "area": "Corporate",
                     "profileUrl": "http://example.com/employee/profile",
                     "office": "CEO office",
@@ -3526,7 +3556,7 @@
             "children": [
             {
                 "name": "Herschel Parikh",
-                "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/HerschelParikh.jpg",
                 "area": "Corporate",
                 "profileUrl": "http://example.com/employee/profile",
                 "office": "CEO office",
@@ -3554,7 +3584,7 @@
                     "children": [
                     {
                         "name": "Jerry Yang",
-                        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                        "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/JerryYang.jpg",
                         "area": "Corporate",
                         "profileUrl": "http://example.com/employee/profile",
                         "office": "CEO office",
@@ -3567,8 +3597,8 @@
                         "positionName": "Alumnus",
                         "children": [
                         {
-                            "name": "Sipiwe Msimanga",
-                            "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                            "name": "Siphiwe Msimanga",
+                            "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/SiphiweMsimanga.jpg",
                             "area": "Corporate",
                             "profileUrl": "http://example.com/employee/profile",
                             "office": "CEO office",
@@ -3581,8 +3611,8 @@
                             "positionName": "Alumnus",
                             "children": [
                             {
-                                "name": "Chineye Ananasa",
-                                "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/ChineyeAnanasa.jpg",
+                                "name": "Chinenye Ananaba",
+                                "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/ChinenyeAnanaba.jpg",
                                 "area": "Corporate",
                                 "profileUrl": "http://example.com/employee/profile",
                                 "office": "CEO office",
@@ -3606,7 +3636,7 @@
         },
         {
             "name": "Carrie Hsu",
-            "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/CarrieHsu.jpg",
             "area": "Corporate",
             "profileUrl": "http://example.com/employee/profile",
             "office": "CEO office",
@@ -3620,7 +3650,7 @@
             "children": [
             {
                 "name": "Matt Ho",
-                "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/MattHo.jpg",
                 "area": "Corporate",
                 "profileUrl": "http://example.com/employee/profile",
                 "office": "CEO office",
@@ -3634,7 +3664,7 @@
             },
             {
                 "name": "Nancy Thanki",
-                "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/NancyThanki.jpg",
                 "area": "Corporate",
                 "profileUrl": "http://example.com/employee/profile",
                 "office": "CEO office",
@@ -3906,7 +3936,7 @@
                 },
                 {
                     "name": "Murtaza Bambot",
-                    "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/MurtazabBambot.jpg",
+                    "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/MurtazaBambot.jpg",
                     "area": "Corporate",
                     "profileUrl": "http://example.com/employee/profile",
                     "office": "CEO office",
@@ -4014,7 +4044,7 @@
             "children": [
             {
                 "name": "Rita Fayner",
-                "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/RitaFayner.jpg",
                 "area": "Corporate",
                 "profileUrl": "http://example.com/employee/profile",
                 "office": "CEO office",
@@ -4135,68 +4165,6 @@
                     {
                         "name": "Vishakha Holsambre",
                         "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/VishakhaHolsambre.jpg",
-                        "area": "Corporate",
-                        "profileUrl": "http://example.com/employee/profile",
-                        "office": "CEO office",
-                        "tags": "CEO",
-                        "isLoggedUser": false,
-                        "unit": {
-                            "type": "business",
-                            "value": "Business first"
-                        },
-                        "positionName": "Brother"
-                    }
-                    ]
-                }
-                ]
-            }
-            ]
-        },
-        {
-            "name": "Katherine Ji",
-            "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-            "area": "Corporate",
-            "profileUrl": "http://example.com/employee/profile",
-            "office": "CEO office",
-            "tags": "CEO",
-            "isLoggedUser": false,
-            "unit": {
-                "type": "business",
-                "value": "Business first"
-            },
-            "positionName": "Alumnus",
-            "children": [
-            {
-                "name": "Anupama Sekar",
-                "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/AnupamaSekar.jpg",
-                "area": "Corporate",
-                "profileUrl": "http://example.com/employee/profile",
-                "office": "CEO office",
-                "tags": "CEO",
-                "isLoggedUser": false,
-                "unit": {
-                    "type": "business",
-                    "value": "Business first"
-                },
-                "positionName": "Alumnus",
-                "children": [
-                {
-                    "name": "Vikram Krishnamurthy",
-                    "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/VikramKrishnamurty.jpg",
-                    "area": "Corporate",
-                    "profileUrl": "http://example.com/employee/profile",
-                    "office": "CEO office",
-                    "tags": "CEO",
-                    "isLoggedUser": false,
-                    "unit": {
-                        "type": "business",
-                        "value": "Business first"
-                    },
-                    "positionName": "Alumnus",
-                    "children": [
-                    {
-                        "name": "Vishwa Shah",
-                        "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/VishwaShah.jpg",
                         "area": "Corporate",
                         "profileUrl": "http://example.com/employee/profile",
                         "office": "CEO office",
