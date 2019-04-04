@@ -1949,8 +1949,8 @@
                                                     "positionName": "Alumnus",
                                                     "children": [
                                                     {
-                                                        "name": "Nikitha Sagar",
-                                                        "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/NikithaSagar.jpg",
+                                                        "name": "Nikhita Sagar",
+                                                        "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/NikhitaSagar.jpg",
                                                         "area": "Corporate",
                                                         "profileUrl": "http://example.com/employee/profile",
                                                         "office": "CEO office",
@@ -2167,8 +2167,100 @@
                                                     ]
                                                 },
                                                 {
-                                                    "name": "Eric Oh",
-                                                    "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                                    "name": "Kyle Dymanus",
+                                                    "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/KyleDymanus.jpg",
+                                                    "area": "Corporate",
+                                                    "profileUrl": "http://example.com/employee/profile",
+                                                    "office": "CEO office",
+                                                    "tags": "CEO",
+                                                    "isLoggedUser": false,
+                                                    "unit": {
+                                                        "type": "business",
+                                                        "value": "Business first"
+                                                    },
+                                                    "positionName": "Alumnus",
+                                                    "children" : [
+                                                    {
+                                                        "name": "Lavanya Natchiappan",
+                                                        "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/LavanyaNatchiappan.jpg",
+                                                        "area": "Corporate",
+                                                        "profileUrl": "http://example.com/employee/profile",
+                                                        "office": "CEO office",
+                                                        "tags": "CEO",
+                                                        "isLoggedUser": false,
+                                                        "unit": {
+                                                            "type": "business",
+                                                            "value": "Business first"
+                                                        },
+                                                        "positionName": "Alumnus",
+                                                        "children" : [
+                                                        {
+                                                            "name": "Lian Feng",
+                                                            "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/LianFeng.jpg",
+                                                            "area": "Corporate",
+                                                            "profileUrl": "http://example.com/employee/profile",
+                                                            "office": "CEO office",
+                                                            "tags": "CEO",
+                                                            "isLoggedUser": false,
+                                                            "unit": {
+                                                                "type": "business",
+                                                                "value": "Business first"
+                                                            },
+                                                            "positionName": "Brothers",
+                                                            "children" : [
+                                                            {
+                                                                "name": "Daivi Patel",
+                                                                "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                                                "area": "Corporate",
+                                                                "profileUrl": "http://example.com/employee/profile",
+                                                                "office": "CEO office",
+                                                                "tags": "CEO",
+                                                                "isLoggedUser": false,
+                                                                "unit": {
+                                                                    "type": "business",
+                                                                    "value": "Business first"
+                                                                },
+                                                                "positionName": "Pledge"
+                                                            },
+                                                            {
+                                                                "name": "Kenneth Kannampully",
+                                                                "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                                                "area": "Corporate",
+                                                                "profileUrl": "http://example.com/employee/profile",
+                                                                "office": "CEO office",
+                                                                "tags": "CEO",
+                                                                "isLoggedUser": false,
+                                                                "unit": {
+                                                                    "type": "business",
+                                                                    "value": "Business first"
+                                                                },
+                                                                "positionName": "Pledge"
+                                                            }
+                                                            ]
+                                                        }
+                                                        ]
+                                                    }
+                                                    ]
+                                                }
+                                                ]
+                                            }
+                                            {
+                                                "name": "Eric Oh",
+                                                "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                                "area": "Corporate",
+                                                "profileUrl": "http://example.com/employee/profile",
+                                                "office": "CEO office",
+                                                "tags": "CEO",
+                                                "isLoggedUser": false,
+                                                "unit": {
+                                                    "type": "business",
+                                                    "value": "Business first"
+                                                },
+                                                "positionName": "Alumnus",
+                                                "children": [
+                                                {
+                                                    "name": "Alex Lee",
+                                                    "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/AlexLee.jpg",
                                                     "area": "Corporate",
                                                     "profileUrl": "http://example.com/employee/profile",
                                                     "office": "CEO office",
@@ -2181,8 +2273,8 @@
                                                     "positionName": "Alumnus",
                                                     "children": [
                                                     {
-                                                        "name": "Alex Lee",
-                                                        "imageUrl": "https://raw.githubusercontent.com/PaperSlate/Family-Tree/master/Family%20Tree%20Pictures/AlexLee.jpg",
+                                                        "name": "Jun Mo Yang",
+                                                        "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                                                         "area": "Corporate",
                                                         "profileUrl": "http://example.com/employee/profile",
                                                         "office": "CEO office",
@@ -2192,42 +2284,26 @@
                                                             "type": "business",
                                                             "value": "Business first"
                                                         },
-                                                        "positionName": "Alumnus",
-                                                        "children": [
-                                                        {
-                                                            "name": "Jun Mo Yang",
-                                                            "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                                                            "area": "Corporate",
-                                                            "profileUrl": "http://example.com/employee/profile",
-                                                            "office": "CEO office",
-                                                            "tags": "CEO",
-                                                            "isLoggedUser": false,
-                                                            "unit": {
-                                                                "type": "business",
-                                                                "value": "Business first"
-                                                            },
-                                                            "positionName": "Alumnus"
-                                                        }
-                                                        ]
+                                                        "positionName": "Alumnus"
                                                     }
                                                     ]
-                                                },
-                                                {
-                                                    "name": "Erica Gabriel",
-                                                    "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-                                                    "area": "Corporate",
-                                                    "profileUrl": "http://example.com/employee/profile",
-                                                    "office": "CEO office",
-                                                    "tags": "CEO",
-                                                    "isLoggedUser": false,
-                                                    "unit": {
-                                                        "type": "business",
-                                                        "value": "Business first"
-                                                    },
-                                                    "positionName": "Alumnus"
                                                 }
                                                 ]
-                                            }
+                                            },
+                                            {
+                                                "name": "Erica Gabriel",
+                                                "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
+                                                "area": "Corporate",
+                                                "profileUrl": "http://example.com/employee/profile",
+                                                "office": "CEO office",
+                                                "tags": "CEO",
+                                                "isLoggedUser": false,
+                                                "unit": {
+                                                    "type": "business",
+                                                    "value": "Business first"
+                                                },
+                                                "positionName": "Alumnus"
+                                            },
                                             ]
                                         },
                                         {
